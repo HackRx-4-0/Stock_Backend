@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\HackRx4.0\Stock_Backend\env
+set VIRTUAL_ENV=C:\Users\hp\Desktop\PS4-Deep_Bug_Divers\server\env
 
 if not defined PROMPT set PROMPT=$P$G
 
